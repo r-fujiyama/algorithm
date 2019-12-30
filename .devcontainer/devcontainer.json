@@ -1,0 +1,13 @@
+{
+  "name": "algorithm",
+  "dockerComposeFile": "./docker-compose.yml",
+  "service": "cpp",
+  "workspaceFolder": "/app/algorithm",
+  "shutdownAction": "stopCompose",
+  "extensions": [
+    "ms-ceintl.vscode-language-pack-ja",
+    "ms-vscode.cpptools",
+    "austin.code-gnu-global",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

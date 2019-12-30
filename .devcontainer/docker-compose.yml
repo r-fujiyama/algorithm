@@ -1,0 +1,8 @@
+version: "3.7"
+services:
+  cpp:
+    build: ./cpp
+    restart: always
+    volumes:
+      - ./..:/app/algorithm
+    tty: true
