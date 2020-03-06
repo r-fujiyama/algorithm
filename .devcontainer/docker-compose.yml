@@ -1,8 +1,10 @@
 version: "3.7"
 services:
-  cpp:
-    build: ./cpp
+  algorithm:
+    build: ./algorithm
+    image: algorithm
+    container_name: algorithm
     restart: always
     volumes:
-      - ./..:/app/algorithm
+      - ./..:/develop/algorithm
     tty: true

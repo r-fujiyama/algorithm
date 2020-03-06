@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": true,
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "[json]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  },
+  "[jsonc]": {
+    "editor.tabSize": 2,
+    "editor.formatOnSave": true
+  }
+}
