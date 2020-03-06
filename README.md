@@ -17,6 +17,7 @@ Remote - Containers (ms-vscode-remote.remote-containers)
 1. 環境構築完了。
 
 ## デバッグ方法
+
 1. buildフォルダを作成。
 1. デバッグを実行したいmani関数が定義されているファイルを開く。
 1. `ctrl + shift + b`を押下し`debug build`を実行。
